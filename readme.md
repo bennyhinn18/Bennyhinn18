@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bennyhinn Sam
 =====================================================================================================================================
 
-* 🌍  I'm based in Colachel
+* 🌍  I'm based in India
 * ✉️  You can contact me at [bennyhinnsam.cs22@stellamaryscoe.edu.in](mailto:bennyhinnsam.cs22@stellamaryscoe.edu.in)
 
 <a href="https://www.github.com/bennyhinn18" target="_blank" rel="noreferrer"><img
