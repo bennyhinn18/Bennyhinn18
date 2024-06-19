@@ -3,9 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Tamil Nadu 
 * ✉️  You can contact me at [bennyhinnsam.cs22@stellamaryscoe.edu.in](mailto:bennyhinnsam.cs22@stellamaryscoe.edu.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bennyhinn18&label=Profile%20views&color=0e75b6&style=flat" alt="bennyhinn" /> </p>
+* ✉️  My portfolio [Bennyhinn Sam](https://bennyhinn18.github.io)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bennyhinn18&label=Profile%20views&color=0e75b6&style=flat" alt="bennyhinn sam" /> </p>
 <a href="https://www.github.com/bennyhinn18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bennyhinn18?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
+
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bennyhinn18&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
